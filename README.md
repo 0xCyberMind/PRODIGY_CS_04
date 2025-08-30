@@ -38,7 +38,7 @@ Before running the script, make sure you have:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/keylogger-python.git
+https://github.com/0xCyberMind/PRODIGY_CS_04.git
 ```
 
 
@@ -75,4 +75,5 @@ This script is for educational purposes only. Unauthorized monitoring or recordi
 ### Author
 
 Name: 0xcybermind
+
 GitHub: 0xcybermind
